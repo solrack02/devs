@@ -197,7 +197,7 @@
  {
  'all': { 
 'colors': { 
-'primary': "#fff", 'secondary': "red" } 
+'primary': "#fff", 'secondary': "green" } 
 , 
 'cond1': false, 
 'func1': (nativeEvent)=>console.log(nativeEvent), 
